@@ -1,5 +1,5 @@
 download with 
-git clone https://github.com/ASN49K/generator
+: "git clone https://github.com/ASN49K/generator"
 
 download and setup with 
-git clone https://github.com/ASN49K/generator && bash setup.sh
+: "git clone https://github.com/ASN49K/generator && bash setup.sh"
